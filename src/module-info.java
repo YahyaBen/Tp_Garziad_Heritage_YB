@@ -1,0 +1,2 @@
+module heritage_Abstract {
+}
